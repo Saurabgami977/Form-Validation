@@ -78,5 +78,6 @@ function validPhone(){
 }
 
 function main(){
-    console.log('hello bro')
+    console.log('hello bro');
+    console.log('Hello how are you');
 }
