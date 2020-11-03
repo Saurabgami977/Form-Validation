@@ -76,3 +76,7 @@ function validPhone(){
         isValidPhone = false;
     }
 }
+
+function main(){
+    console.log('hello bro')
+}
